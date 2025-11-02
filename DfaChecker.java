@@ -1,3 +1,4 @@
+// For activity#1
 import java.util.Scanner;
 
 public class DfaChecker {
@@ -41,4 +42,5 @@ public class DfaChecker {
 
         sc.close();
     }
+
 }
