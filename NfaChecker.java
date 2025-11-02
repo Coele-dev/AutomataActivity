@@ -1,3 +1,4 @@
+//For activity#2
 import java.util.Scanner;
 import java.util.Arrays;
 import java.util.HashSet;
@@ -79,4 +80,5 @@ public class NfaChecker {
                 return Arrays.asList();
         }
     }
+
 }
